@@ -1,0 +1,8 @@
+# TODO
+
+1. Edit /etc/issue and /etc/motd
+2. Finish ngrok interface and edit /etc/motd to automatically display URL
+3. Configure openssh-server with random password and edit /etc/motd to automatically display password
+4. Build the actual ISO with https://github.com/mvallim/live-custom-ubuntu-from-scratch
+5. Write the guide
+6. Finish README.md
